@@ -9,6 +9,7 @@
  ├── INWENTARYZACJA.html   ← Główna aplikacja (otwierają wszyscy kotki)
  └── README.md             ← Ten plik
 ```
+<img width="1811" height="879" alt="image" src="https://github.com/user-attachments/assets/8f8c606c-996e-4e71-b15a-009c9ae82e26" />
 
 ---
 
@@ -49,6 +50,7 @@
 ---
 
 ## Dla kotków w sieci (tablety, telefony, inne komputery)
+<img width="1643" height="790" alt="image" src="https://github.com/user-attachments/assets/3d3bd5fe-454a-4653-a576-b3e37336e15a" />
 
 Na każdym urządzeniu w sieci szkolnej wystarczy otworzyć przeglądarkę i wpisać:
 
@@ -60,6 +62,8 @@ Gdzie IP_SERWERA to adres wyświetlony przez `START_SERWER.ps1`.
 
 Możesz też skopiować plik `INWENTARYZACJA.html` na każde urządzenie —  
 wpisujesz adres serwera raz i jest zapamiętany.
+<img width="804" height="781" alt="image" src="https://github.com/user-attachments/assets/fe511bbd-086e-4de5-9c64-c0d0a4e4b321" />
+<img width="535" height="815" alt="image" src="https://github.com/user-attachments/assets/3a1ba2be-12b3-4c06-9eac-9ec3eaf8136d" />
 
 ---
 
@@ -78,6 +82,8 @@ wpisujesz adres serwera raz i jest zapamiętany.
 | 🖥️/📱 | Tryb desktop (tabela) i mobile (karty) |
 
 ---
+<img width="1373" height="184" alt="image" src="https://github.com/user-attachments/assets/1ca7bf00-da29-42db-9558-4f746d4a57b0" />
+<img width="681" height="196" alt="image" src="https://github.com/user-attachments/assets/3621a978-197d-4449-a6b4-6765bb76c26c" />
 
 ## Backup danych
 
